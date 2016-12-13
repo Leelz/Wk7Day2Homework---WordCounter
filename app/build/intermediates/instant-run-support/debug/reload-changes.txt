@@ -1,0 +1,10 @@
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/App$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/R$mipmap$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/R$style$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/R$string$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/R$styleable$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/R$integer$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/R$layout$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/user/wordcounter/R$id$override.class

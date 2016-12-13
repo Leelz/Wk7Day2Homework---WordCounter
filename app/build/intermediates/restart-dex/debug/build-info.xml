@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xhdpi"
+    format="7"
+    timestamp="231369482189221"
+    token="-8175315494300690034" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="231275566463125" >
+        <artifact
+            location="/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="231369482189221" />
+
+</instant-run>

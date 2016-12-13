@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ede912674c0c00ce3193287f4cec2bfd2fdd7eaf">
+        <dex dex="/Users/user/Desktop/cx3_8/week_7-AndroidStudio/WordCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5a6cebfe1c21a247704a50e787125bba5d74159/classes.dex" />
+    </item>
+
+</items>
